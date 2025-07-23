@@ -14,9 +14,9 @@ from cryptography.fernet import Fernet  # For encryption
 import requests  # For crypto rates
 
 # ===== CONFIGURATION =====
-BOT_TOKEN = "YOUR_BOT_TOKEN"  # From @BotFather
+BOT_TOKEN = "7429115282:AAHOc7UESTfl648pUr6_tavWqlhCYtVHLsw"  # From @BotFather
 ADMIN_ID = 8142148294         # Your Telegram ID
-CHANNEL_ID = "@yourchannel"   # Your channel username
+CHANNEL_ID = "@testnetprof"   # Your channel username
 SUPPORT_USERNAME = "@Maxamy1" # Support contact
 ANALYTICS_URL = "https://your-analytics.com"  # For tracking
 
